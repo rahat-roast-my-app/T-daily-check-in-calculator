@@ -1,7 +1,7 @@
 
-# 🧠 Daily Testosterone Check-In App
+# 🧠 Daily Testosterone Check-In App (Fixed Version)
 
-This is a Streamlit app to track your daily testosterone based on your 20 daily habit scores.
+This is a Streamlit app to track your daily testosterone based on your 20 daily habit scores, using your locked-in final weights.
 
 ## How to Run Locally
 
@@ -19,10 +19,9 @@ streamlit run daily_checkin_app.py
 
 ## How to Deploy on Streamlit Cloud
 
-1. Upload this folder to a new GitHub repository.
+1. Upload this entire folder to a GitHub repository (including `/data/` folder!).
 2. Go to https://streamlit.io/cloud
-3. Click "New App" > connect your GitHub > select this repo > Deploy!
+3. Click "New App" > Connect to GitHub > Select this repo > Deploy!
 4. Your web app will be live at a shareable link.
 
----
-Made with ❤️ to boost natural testosterone!
+✅ Make sure the `/data/` folder is included so the app can load your correct weight table!

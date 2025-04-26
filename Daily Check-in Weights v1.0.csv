@@ -1,0 +1,202 @@
+Daily_Check-In_Quiz_Weights__Final_Version_
+Habit Name,Habit Type,User Input Score,Adjusted Score Used,Weight Applied
+Sleep quality,Positive,1,1,0.90
+Sleep quality,Positive,2,2,0.93
+Sleep quality,Positive,3,3,0.94
+Sleep quality,Positive,4,4,0.95
+Sleep quality,Positive,5,5,0.97
+Sleep quality,Positive,6,6,0.99
+Sleep quality,Positive,7,7,1.0
+Sleep quality,Positive,8,8,1.03
+Sleep quality,Positive,9,9,1.07
+Sleep quality,Positive,10,10,1.12
+Sunlight exposure,Positive,1,1,0.91
+Sunlight exposure,Positive,2,2,0.93
+Sunlight exposure,Positive,3,3,0.94
+Sunlight exposure,Positive,4,4,0.95
+Sunlight exposure,Positive,5,5,0.97
+Sunlight exposure,Positive,6,6,0.99
+Sunlight exposure,Positive,7,7,1.01
+Sunlight exposure,Positive,8,8,1.03
+Sunlight exposure,Positive,9,9,1.05
+Sunlight exposure,Positive,10,10,1.07
+Workout intensity,Positive,1,1,0.89
+Workout intensity,Positive,2,2,0.91
+Workout intensity,Positive,3,3,0.92
+Workout intensity,Positive,4,4,0.93
+Workout intensity,Positive,5,5,0.96
+Workout intensity,Positive,6,6,0.99
+Workout intensity,Positive,7,7,1.01
+Workout intensity,Positive,8,8,1.03
+Workout intensity,Positive,9,9,1.08
+Workout intensity,Positive,10,10,1.10
+Step count,Positive,1,1,0.90
+Step count,Positive,2,2,0.91
+Step count,Positive,3,3,0.93
+Step count,Positive,4,4,0.95
+Step count,Positive,5,5,0.97
+Step count,Positive,6,6,0.98
+Step count,Positive,7,7,1.0
+Step count,Positive,8,8,1.02
+Step count,Positive,9,9,1.04
+Step count,Positive,10,10,1.05
+Work focus,Positive,1,1,0.92
+Work focus,Positive,2,2,0.93
+Work focus,Positive,3,3,0.94
+Work focus,Positive,4,4,0.96
+Work focus,Positive,5,5,0.98
+Work focus,Positive,6,6,0.99
+Work focus,Positive,7,7,1.01
+Work focus,Positive,8,8,1.02
+Work focus,Positive,9,9,1.03
+Work focus,Positive,10,10,1.04
+Diet cleanliness,Positive,1,1,0.89
+Diet cleanliness,Positive,2,2,0.91
+Diet cleanliness,Positive,3,3,0.92
+Diet cleanliness,Positive,4,4,0.94
+Diet cleanliness,Positive,5,5,0.96
+Diet cleanliness,Positive,6,6,0.98
+Diet cleanliness,Positive,7,7,1.0
+Diet cleanliness,Positive,8,8,1.02
+Diet cleanliness,Positive,9,9,1.04
+Diet cleanliness,Positive,10,10,1.07
+Vitamin & mineral intake,Positive,1,1,0.90
+Vitamin & mineral intake,Positive,2,2,0.91
+Vitamin & mineral intake,Positive,3,3,0.92
+Vitamin & mineral intake,Positive,4,4,0.95
+Vitamin & mineral intake,Positive,5,5,0.96
+Vitamin & mineral intake,Positive,6,6,0.98
+Vitamin & mineral intake,Positive,7,7,1.0
+Vitamin & mineral intake,Positive,8,8,1.02
+Vitamin & mineral intake,Positive,9,9,1.04
+Vitamin & mineral intake,Positive,10,10,1.05
+Fasting duration,Positive,1,1,0.91
+Fasting duration,Positive,2,2,0.92
+Fasting duration,Positive,3,3,0.93
+Fasting duration,Positive,4,4,0.94
+Fasting duration,Positive,5,5,0.96
+Fasting duration,Positive,6,6,0.99
+Fasting duration,Positive,7,7,1.01
+Fasting duration,Positive,8,8,1.02
+Fasting duration,Positive,9,9,1.04
+Fasting duration,Positive,10,10,1.05
+Water intake,Positive,1,1,0.90
+Water intake,Positive,2,2,0.92
+Water intake,Positive,3,3,0.93
+Water intake,Positive,4,4,0.95
+Water intake,Positive,5,5,0.97
+Water intake,Positive,6,6,0.98
+Water intake,Positive,7,7,1.01
+Water intake,Positive,8,8,1.02
+Water intake,Positive,9,9,1.03
+Water intake,Positive,10,10,1.05
+Competitive male environment,Positive,1,1,0.94
+Competitive male environment,Positive,2,2,0.95
+Competitive male environment,Positive,3,3,0.96
+Competitive male environment,Positive,4,4,0.97
+Competitive male environment,Positive,5,5,0.98
+Competitive male environment,Positive,6,6,0.99
+Competitive male environment,Positive,7,7,1.01
+Competitive male environment,Positive,8,8,1.02
+Competitive male environment,Positive,9,9,1.04
+Competitive male environment,Positive,10,10,1.06
+Breathing style,Positive,1,1,0.92
+Breathing style,Positive,2,2,0.94
+Breathing style,Positive,3,3,0.95
+Breathing style,Positive,4,4,0.96
+Breathing style,Positive,5,5,0.97
+Breathing style,Positive,6,6,0.99
+Breathing style,Positive,7,7,1.01
+Breathing style,Positive,8,8,1.03
+Breathing style,Positive,9,9,1.05
+Breathing style,Positive,10,10,1.07
+Cold exposure,Positive,1,1,0.92
+Cold exposure,Positive,2,2,0.93
+Cold exposure,Positive,3,3,0.94
+Cold exposure,Positive,4,4,0.95
+Cold exposure,Positive,5,5,0.97
+Cold exposure,Positive,6,6,0.99
+Cold exposure,Positive,7,7,1.01
+Cold exposure,Positive,8,8,1.02
+Cold exposure,Positive,9,9,1.03
+Cold exposure,Positive,10,10,1.04
+Stress level,Negative,1,10,1.10
+Stress level,Negative,2,9,1.07
+Stress level,Negative,3,8,1.03
+Stress level,Negative,4,7,1.01
+Stress level,Negative,5,6,0.98
+Stress level,Negative,6,5,0.96
+Stress level,Negative,7,4,0.94
+Stress level,Negative,8,3,0.93
+Stress level,Negative,9,2,0.90
+Stress level,Negative,10,1,0.87
+Sugar intake,Negative,1,10,1.09
+Sugar intake,Negative,2,9,1.06
+Sugar intake,Negative,3,8,1.03
+Sugar intake,Negative,4,7,0.99
+Sugar intake,Negative,5,6,0.97
+Sugar intake,Negative,6,5,0.95
+Sugar intake,Negative,7,4,0.94
+Sugar intake,Negative,8,3,0.93
+Sugar intake,Negative,9,2,0.91
+Sugar intake,Negative,10,1,0.87
+Plastic usage,Negative,1,10,1.06
+Plastic usage,Negative,2,9,1.04
+Plastic usage,Negative,3,8,1.02
+Plastic usage,Negative,4,7,1.0
+Plastic usage,Negative,5,6,0.97
+Plastic usage,Negative,6,5,0.95
+Plastic usage,Negative,7,4,0.93
+Plastic usage,Negative,8,3,0.91
+Plastic usage,Negative,9,2,0.90
+Plastic usage,Negative,10,1,0.88
+Screen time,Negative,1,10,1.05
+Screen time,Negative,2,9,1.04
+Screen time,Negative,3,8,1.03
+Screen time,Negative,4,7,1.01
+Screen time,Negative,5,6,0.97
+Screen time,Negative,6,5,0.95
+Screen time,Negative,7,4,0.94
+Screen time,Negative,8,3,0.93
+Screen time,Negative,9,2,0.92
+Screen time,Negative,10,1,0.90
+Adult content exposure,Negative,1,10,1.07
+Adult content exposure,Negative,2,9,1.05
+Adult content exposure,Negative,3,8,1.01
+Adult content exposure,Negative,4,7,0.98
+Adult content exposure,Negative,5,6,0.95
+Adult content exposure,Negative,6,5,0.94
+Adult content exposure,Negative,7,4,0.93
+Adult content exposure,Negative,8,3,0.92
+Adult content exposure,Negative,9,2,0.90
+Adult content exposure,Negative,10,1,0.89
+Polyester clothing usage,Negative,1,10,1.07
+Polyester clothing usage,Negative,2,9,1.05
+Polyester clothing usage,Negative,3,8,1.03
+Polyester clothing usage,Negative,4,7,0.99
+Polyester clothing usage,Negative,5,6,0.98
+Polyester clothing usage,Negative,6,5,0.97
+Polyester clothing usage,Negative,7,4,0.95
+Polyester clothing usage,Negative,8,3,0.93
+Polyester clothing usage,Negative,9,2,0.91
+Polyester clothing usage,Negative,10,1,0.89
+BPA exposure,Negative,1,10,1.04
+BPA exposure,Negative,2,9,1.03
+BPA exposure,Negative,3,8,1.02
+BPA exposure,Negative,4,7,1.00
+BPA exposure,Negative,5,6,0.98
+BPA exposure,Negative,6,5,0.96
+BPA exposure,Negative,7,4,0.95
+BPA exposure,Negative,8,3,0.93
+BPA exposure,Negative,9,2,0.91
+BPA exposure,Negative,10,1,0.90
+Alcohol consumption,Negative,1,10,1.05
+Alcohol consumption,Negative,2,9,1.02
+Alcohol consumption,Negative,3,8,0.99
+Alcohol consumption,Negative,4,7,0.97
+Alcohol consumption,Negative,5,6,0.95
+Alcohol consumption,Negative,6,5,0.94
+Alcohol consumption,Negative,7,4,0.93
+Alcohol consumption,Negative,8,3,0.92
+Alcohol consumption,Negative,9,2,0.91
+Alcohol consumption,Negative,10,1,0.90
